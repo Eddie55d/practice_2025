@@ -1,0 +1,17 @@
+/server/node_modules
+/pharma/node_modules
+
+/server/package-lock.json
+
+
+/pharma/package-lock.json
+
+/01.md
+/command_clips.md
+
+/command_clips.md
+/old_pharma.clp
+/pharma.clp
+/pharma2.clp
+/inputs.md
+/tasks_list.md
